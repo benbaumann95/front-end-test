@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/.cache/dev-404-page.js",
+      "component": "/Users/benbaumann/code/frontendproject (Unzipped Files)/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/.cache/dev-404-page.js",
+      "componentPath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "da55bffc33361dfc839f9a641422f2b1",
+        "contentDigest": "2846f9951478420b5a9733596ef9a752",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ba44dee7107da6ee1fb30e2cc4cac8d8",
+        "contentDigest": "fad42a16760d11e51b8af158d7c7ef67",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4c94237557fc530c2435b16d3470649f",
+        "contentDigest": "ad71d304200a069dc915c89ab8b0164f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -108,7 +108,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -129,13 +129,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1e7eac763369aa5ee91cb765c9a5fba5",
+        "contentDigest": "a3c26f9f8217560ce24ee62642bfd3ef",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -148,7 +148,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -165,13 +165,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b0d56f9b551d9b6805c62f5845d6f086",
+        "contentDigest": "48d589f170a3982458e9355a6738b6ec",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -183,7 +183,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -200,13 +200,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5d4d28ce41a1708099d5e8fb8ea1bef6",
+        "contentDigest": "f298df07816b0ab576a1747f09522fc5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -219,7 +219,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -236,13 +236,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bc84d39ff12970f55c537becbca33c9d",
+        "contentDigest": "89e936de7776cfde53b4b8ef89cd2724",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.10",
@@ -254,7 +254,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -313,13 +313,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e5af7f697c06c2ec7aff97a0cae28f4d",
+        "contentDigest": "f4106c630de2d7dcbfd8b3aa1de6a2ae",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)",
+      "resolve": "/Users/benbaumann/code/frontendproject (Unzipped Files)",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "077b1c15596abb0032c9d57ffb4049d9",
@@ -329,7 +329,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)",
+      "pluginFilepath": "/Users/benbaumann/code/frontendproject (Unzipped Files)",
       "packageJson": {
         "name": "frontend-developer-test",
         "description": "Frontend Developer Test",
@@ -390,7 +390,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "93fe7aad348ee2234228d78e8ca27cd6",
+        "contentDigest": "16e03c666364a618f81cde71808a8162",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -403,12 +403,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-04T08:24:06.249Z",
+      "buildTime": "2018-06-04T08:49:33.178Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f1a0d1f5afb342e51eebc2e8612618b7",
+        "contentDigest": "cbaf9fb3eafd547440d6fa6e5f752c87",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -418,18 +418,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/src/pages/404.js",
+      "component": "/Users/benbaumann/code/frontendproject (Unzipped Files)/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/src/pages/404.js",
+      "componentPath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "805b1704fc26d7a87fc42a6e66681481",
+        "contentDigest": "b6125862e2b98238e84e4cdf0b6f203a",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -439,18 +439,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/src/pages/index.js",
+      "component": "/Users/benbaumann/code/frontendproject (Unzipped Files)/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/src/pages/index.js",
+      "componentPath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fd8aac023f182439c44adbe542f6b5a0",
+        "contentDigest": "991bcef0117627a85067298f55a043da",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -460,18 +460,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/src/pages/404.js",
+      "component": "/Users/benbaumann/code/frontendproject (Unzipped Files)/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/benbaumann/code/frontendproject.zip (Unzipped Files)/src/pages/404.js",
+      "componentPath": "/Users/benbaumann/code/frontendproject (Unzipped Files)/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b76014f8e2abdff270fc80b5f8dbe641",
+        "contentDigest": "ac943768e22ebb3ef621c71cb209aace",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

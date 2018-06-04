@@ -1,11 +1,10 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Helmet from 'react-helmet';
-import '../../node_modules/font-awesome/css/font-awesome.min.css';
-import Header from '../components/header';
+import React from 'react'
+import PropTypes from 'prop-types'
+import Helmet from 'react-helmet'
+import Header from '../components/header'
 
-import './index.css';
-import './contact-form.css';
+import './index.css'
+import './contact-form.css'
 
 const Layout = ({ children, data }) => (
   <div>
@@ -13,7 +12,7 @@ const Layout = ({ children, data }) => (
       title={data.site.siteMetadata.title}
       meta={[
         { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' }
+        { name: 'keywords', content: 'sample, something' },
       ]}
     />
     <Header siteTitle={data.site.siteMetadata.title} />
@@ -22,19 +21,19 @@ const Layout = ({ children, data }) => (
         margin: '0 auto',
         maxWidth: 960,
         padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0
+        paddingTop: 0,
       }}
     >
       {children()}
     </div>
   </div>
-);
+)
 
 Layout.propTypes = {
-  children: PropTypes.func
-};
+  children: PropTypes.func,
+}
 
-export default Layout;
+export default Layout
 
 export const query = graphql`
   query SiteTitleQuery {
@@ -44,4 +43,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`
